@@ -11,14 +11,16 @@ import numpy as np
 np.random.seed(123)
 from keras.models import Sequential
 import seaborn as sns
-
+import shap
 from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
 
+#Preparation de la donnees
 data = []
 labels = []
 classes = ["potentiel","pas_potentiel"]
 cur_path = r"C:\Projets\sat_caribou\cnn"
 
+#Allez chercher les informations des images
 for i in classes:
     path = os.path.join(cur_path, 'train', str(i))
     images = os.listdir(path)
@@ -65,18 +67,21 @@ model.add(Dropout(0.25))
 model.add(Flatten())
 model.add(Dense(256, activation='relu'))
 model.add(Dropout(0.25))
-model.add(Dense(512, activation='relu'))
-model.add(Dropout(0.25))
-model.add(Dense(1024, activation='relu'))
-model.add(Dropout(0.25))
+#model.add(Dense(512, activation='relu'))
+#model.add(Dropout(0.25))
+#model.add(Dense(1024, activation='relu'))
+#model.add(Dropout(0.25))
 #model.add(Dense(2, activation='softmax'))
 model.add(Dense(2, activation='sigmoid'))
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 epochs = 20
+
+#Entrainement du modèle
 history = model.fit(X_train, y_train, batch_size=32, epochs=epochs, validation_data=(X_test, y_test))
 model.save("my_model.h5")
 
+#Présentation des indicateurs de qualité
 plt.figure(0)
 plt.plot(history.history['accuracy'], label='training accuracy')
 plt.plot(history.history['val_accuracy'])
@@ -133,18 +138,19 @@ data_test = []
 
 #print(accuracy_score(labels, pred))
 # confusion matrix
-# Predict the value from the validation dataset
+# Prédiction sur les données de tests
 Y_pred = model.predict(X_test)
-# Convert Predictions classes to one hot vectors
+
 Y_pred_classes = np.argmax(Y_pred, axis = 1)
-# Convert Validation observation to one hot vectors
+
 Y_true = np.argmax(y_test, axis = 1)
-# Compute the confision matrix
+# Générer la matrice de confusion des résultats sur la données de tests
 condision_mtrx = confusion_matrix(Y_true, Y_pred_classes)
-# plot the confusion matrix
+
 f,ax = plt.subplots(figsize=(8, 8))
 sns.heatmap(condision_mtrx, annot = True, linewidths = 0.01, cmap = "Greens", linecolor = "gray", fmt = ".2f", ax = ax)
 plt.xlabel("Predicted Label")
 plt.ylabel("True Label")
 plt.title("Confusion Matrix")
 plt.show()
+

@@ -8,6 +8,10 @@ import random
 import cv2
 import pandas as pd
 import numpy as np
+from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
+from sklearn.model_selection import train_test_split
+import shap
+
 
 def extract_hog_features(image):
     hog_features = hog(
@@ -41,17 +45,17 @@ def getImageReset(image_path):
     hog_features = extract_hog_features(img_gray)
     return hog_features
 
-
-df = pd.read_csv('Data_Sat_Caribou_v8.csv')
+#Lecture du fichir CSV
+df = pd.read_csv('Data_Sat_Caribou_v18.csv')
 df = df.fillna(0)
 print(df.columns)
 df_potentielle = df.query("classement == 'potentiel'")
-df_potentielle = df_potentielle.iloc[:1400]
+df_potentielle = df_potentielle.iloc[:2000]
 
 #df_potentielle = df_potentielle.drop('classement',axis=1)
 
 df_pas_potentielle = df.query("classement == 'pas potentiel'")
-df_pas_potentielle = df_pas_potentielle.iloc[:1400]
+df_pas_potentielle = df_pas_potentielle.iloc[:2000]
 
 newdf = pd.concat([df_potentielle,df_pas_potentielle])
 
@@ -97,7 +101,6 @@ for index, row in newdf.iterrows():
         images.append(row["fichiers"])
 
 
-from sklearn.model_selection import train_test_split
 
 index = 0
 flat_data = np.array( flat_data_arr)
@@ -126,29 +129,28 @@ X_train, X_test, y_train, y_test = train_test_split(x, y, test_size = 0.33, rand
 
 # import Random Forest classifier
 
-from sklearn.ensemble import RandomForestClassifier
 
 
 
-# instantiate the classifier
+#Création du modèle
 
 rfc = RandomForestClassifier(n_estimators=100,random_state=0)
 
 
 
-# fit the model
+#entrainement du modèle
 
 rfc.fit(X_train, y_train)
 
 
 
-# Predict the Test set results
+# Prédiction des données de test
 
 y_pred = rfc.predict(X_test)
 
 
 
-# Check accuracy score
+# Vérifier les indicateurs de qualité
 
 from sklearn.metrics import accuracy_score
 
@@ -172,9 +174,7 @@ print('Model accuracy score with 10 decision-trees : {0:0.4f}'. format(accuracy_
 #habitat_accuracy = accuracy_score(habitat_test_y, habitat_predictions)
 
 
-
-from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
-import matplotlib.pyplot as plt
+#Générer la matrice de confusion
 
 cm = confusion_matrix(y_test, y_pred)
 disp = ConfusionMatrixDisplay(confusion_matrix=cm)
@@ -211,3 +211,17 @@ plt.figure(figsize=(10, 8))
 #    plot_tree(tree)
 #    plt.title("First Decision Tree in the Random Forest")
 #    plt.show()
+
+
+# Create a SHAP explainer for the trained model
+explainer = shap.Explainer(rfc)
+
+# Calculate SHAP values for a specific instance
+shap_values = explainer(X_test)
+
+shap.summary_plot(shap_values, X_test, plot_type="bar")
+#
+print(shap_values)
+#shap.summary_plot(shap_values[0], X_test)
+
+#shap.dependence_plot("Subscription Length", shap_values[0], X_test,interaction_index="Age")

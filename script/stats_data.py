@@ -28,8 +28,7 @@ def plot_decision_regions(x, y , classifier, test_idx=None, resolution=0.02):
         plt.scatter(x=x[y == cl, 0],y=x[y ==cl, 1],alpha=0.8, c=colors[idx], marker=markers[idx],label=f'Class {cl}',edgecolor='black')
 
 
-
-df = pd.read_csv('Data_Sat_Caribou_v8.csv')
+df = pd.read_csv('Data_Sat_Caribou_v16.csv')
 df = df.fillna(0)
 
 
@@ -85,7 +84,7 @@ print(df_potentielle)
 
 
 
-df = pd.read_csv('Data_Sat_Caribou_v8.csv')
+df = pd.read_csv('Data_Sat_Caribou_v16.csv')
 df = df.fillna(0)
 
 groups = df.groupby("classement").groups
@@ -147,8 +146,8 @@ for c in df.columns:
 
         # Perform the paired samples t-test
 
-        data_group1 = df_potentielle[c][:100]
-        data_group2 = df_pas_potentielle[c][:100]
+        data_group1 = df_potentielle[c][:1000]
+        data_group2 = df_pas_potentielle[c][:1000]
         t_statistic, p_value = stats.ttest_rel(data_group1, data_group2)
 
         #print(f"T-statistic: {t_statistic}")
@@ -183,5 +182,5 @@ for c in df.columns:
         #plt.show()
 
 
-print("faut que tules rejettes")
+
 print(fields_reject)

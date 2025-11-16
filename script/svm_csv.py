@@ -13,6 +13,7 @@ import cv2
 from skimage.feature import hog
 from skimage.transform import resize
 from sklearn.model_selection import cross_val_score
+import shap
 
 def make_meshgrid(x, y, h=.02):
     x_min, x_max = x.min() - 1, x.max() + 1
@@ -104,16 +105,16 @@ def getImagesData(df):
     return df_pictures
 
 
-df = pd.read_csv('Data_Sat_Caribou_v9.csv')
+df = pd.read_csv('Data_Sat_Caribou_v16.csv')
 df = df.fillna(0)
 df = df.fillna(0)
 df_potentielle = df.query("classement == 'potentiel'")
-df_potentielle = df_potentielle.iloc[:100]
+df_potentielle = df_potentielle.iloc[:1000]
 
 #df_potentielle = df_potentielle.drop('classement',axis=1)
 
 df_pas_potentielle = df.query("classement == 'pas potentiel'")
-df_pas_potentielle = df_pas_potentielle.iloc[:100]
+df_pas_potentielle = df_pas_potentielle.iloc[:1000]
 
 newdf = pd.concat([df_potentielle,df_pas_potentielle])
 
@@ -183,3 +184,13 @@ cm = confusion_matrix(y_test, y_pred)
 disp = ConfusionMatrixDisplay(confusion_matrix=cm)
 disp.plot(cmap=plt.cm.Blues)
 plt.show()
+
+# Create a SHAP explainer for the trained model
+explainer = shap.Explainer(svm_linear)
+
+# Calculate SHAP values for a specific instance
+shap_values = explainer(x_test)
+
+shap.summary_plot(shap_values, x_test, plot_type="bar")
+#
+print(shap_values)

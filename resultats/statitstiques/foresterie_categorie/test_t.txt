@@ -1,0 +1,196 @@
+#####in_caribou_zone#####
+23.70522094391866
+6.4569358080647394e-99
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####diff_altitue#####
+-13.388113562302719
+1.0232134310559796e-37
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####pts_plus_eleve#####
+-13.388113562302719
+1.0232134310559796e-37
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####agricole#####
+-6.535297598641964
+1.0102660497613615e-10
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####longueur_route#####
+-14.092816345763586
+2.850509554556914e-41
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####couvert_surface_dominant#####
+4.652268373932799
+3.7242507751872747e-06
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####couvert_surface_dominant2#####
+4.801322905547617
+1.81706551355298e-06
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####couvert_hydrique#####
+-30.1298297228178
+2.1503846305615563e-142
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_age_2_2#####
+1.7147333845352373
+0.08670425573772085
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_age#####
+1.7147333845352373
+0.08670425573772085
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_groupe_essenece_2_2#####
+1.4072365041780843
+0.15966831333958045
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_groupe_essenece#####
+1.4072365041780843
+0.15966831333958045
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_densite_2_2#####
+-0.08807729475873922
+0.9298328944513115
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_densite#####
+-0.08807729475873922
+0.9298328944513115
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_drainage_2_2#####
+2.371230548192935
+0.017917824144115656
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_drainage#####
+2.371230548192935
+0.017917824144115656
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_pente_2_2#####
+4.210764983912073
+2.7746876653431656e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_pente#####
+4.210764983912073
+2.7746876653431656e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_surface_2_2#####
+-4.847175055958022
+1.4512846537642498e-06
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_surface#####
+-4.847175055958022
+1.4512846537642498e-06
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_terrain_2_2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_terrain#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_couvert_2_2#####
+5.690249055327637
+1.666029280469009e-08
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_type_couvert#####
+5.690249055327637
+1.666029280469009e-08
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_etage_2_2#####
+-1.7683271051545315
+0.07731138583985159
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_etage#####
+-1.7683271051545315
+0.07731138583985159
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_ecologie_2_2#####
+-0.46377505947847897
+0.6429099458087064
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_ecologie#####
+-0.46377505947847897
+0.6429099458087064
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_terrain_2_2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_terrain#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_age_2_2_2#####
+1.5921503864608415
+0.11166726561219421
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_age_2#####
+1.5921503864608415
+0.11166726561219421
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_surface_2_2_2#####
+-6.243708052019309
+6.309096761241054e-10
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_surface_2#####
+-6.243708052019309
+6.309096761241054e-10
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_densite_2_2_2#####
+-1.1006684742544797
+0.27130610868211225
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_densite_2#####
+-1.1006684742544797
+0.27130610868211225
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_drainage_2_2_2#####
+1.3408807896040005
+0.18026395879373155
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_drainage_2#####
+1.3408807896040005
+0.18026395879373155
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_pente_2_2_2#####
+4.149288667245485
+3.6190537929447274e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_pente_2#####
+4.149288667245485
+3.6190537929447274e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_terrain_2_2_2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_terrain_2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_couvert_2_2_2#####
+3.8352750038422405
+0.00013328199063928294
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_type_couvert_2#####
+3.8352750038422405
+0.00013328199063928294
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_type_ecologie_2_2_2#####
+-2.772441477363283
+0.005667222733483135
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_type_ecologie_2#####
+-2.772441477363283
+0.005667222733483135
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####_num_type_terrain_2_2_2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####_num_type_terrain_2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####sup_feu#####
+-6.21303607630526
+7.617152809931595e-10
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.

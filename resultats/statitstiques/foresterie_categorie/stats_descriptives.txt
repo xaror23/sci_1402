@@ -1,0 +1,2156 @@
+in_caribou_zone
+This is the second line.
+potentiel
+count    3993.000000
+mean        0.499374
+std         0.500062
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         1.000000
+max         1.000000
+Name: in_caribou_zone, dtype: float64
+pas potentiel
+count    27311.000000
+mean         0.397935
+std          0.489481
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          1.000000
+max          1.000000
+Name: in_caribou_zone, dtype: float64
+in_caribou_zone
+This is the second line.
+potentiel
+count    3993.000000
+mean        0.499374
+std         0.500062
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         1.000000
+max         1.000000
+Name: in_caribou_zone, dtype: float64
+pas potentiel
+count    27311.000000
+mean         0.397935
+std          0.489481
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          1.000000
+max          1.000000
+Name: in_caribou_zone, dtype: float64
+diff_altitue
+This is the second line.
+potentiel
+count    3993.000000
+mean        0.113449
+std         9.439842
+min       -24.000000
+25%        -3.000000
+50%         0.000000
+75%         4.000000
+max        24.000000
+Name: diff_altitue, dtype: float64
+pas potentiel
+count    27311.000000
+mean        95.974662
+std        263.519095
+min      -2204.000000
+25%         -7.000000
+50%          0.000000
+75%        174.500000
+max       1175.000000
+Name: diff_altitue, dtype: float64
+diff_altitue
+This is the second line.
+potentiel
+count    3993.000000
+mean        0.113449
+std         9.439842
+min       -24.000000
+25%        -3.000000
+50%         0.000000
+75%         4.000000
+max        24.000000
+Name: diff_altitue, dtype: float64
+pas potentiel
+count    27311.000000
+mean        95.974662
+std        263.519095
+min      -2204.000000
+25%         -7.000000
+50%          0.000000
+75%        174.500000
+max       1175.000000
+Name: diff_altitue, dtype: float64
+pts_plus_eleve
+This is the second line.
+potentiel
+count    3993.000000
+mean        0.113449
+std         9.439842
+min       -24.000000
+25%        -3.000000
+50%         0.000000
+75%         4.000000
+max        24.000000
+Name: pts_plus_eleve, dtype: float64
+pas potentiel
+count    27311.000000
+mean        95.974662
+std        263.519095
+min      -2204.000000
+25%         -7.000000
+50%          0.000000
+75%        174.500000
+max       1175.000000
+Name: pts_plus_eleve, dtype: float64
+pts_plus_eleve
+This is the second line.
+potentiel
+count    3993.000000
+mean        0.113449
+std         9.439842
+min       -24.000000
+25%        -3.000000
+50%         0.000000
+75%         4.000000
+max        24.000000
+Name: pts_plus_eleve, dtype: float64
+pas potentiel
+count    27311.000000
+mean        95.974662
+std        263.519095
+min      -2204.000000
+25%         -7.000000
+50%          0.000000
+75%        174.500000
+max       1175.000000
+Name: pts_plus_eleve, dtype: float64
+agricole
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: agricole, dtype: float64
+pas potentiel
+count    27311.000000
+mean         0.022921
+std          0.149655
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max          1.000000
+Name: agricole, dtype: float64
+agricole
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: agricole, dtype: float64
+pas potentiel
+count    27311.000000
+mean         0.022921
+std          0.149655
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max          1.000000
+Name: agricole, dtype: float64
+longueur_route
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: longueur_route, dtype: float64
+pas potentiel
+count    27311.000000
+mean       382.578115
+std       1251.501329
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max      17681.262608
+Name: longueur_route, dtype: float64
+longueur_route
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: longueur_route, dtype: float64
+pas potentiel
+count    27311.000000
+mean       382.578115
+std       1251.501329
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max      17681.262608
+Name: longueur_route, dtype: float64
+couvert_surface_dominant
+This is the second line.
+potentiel
+count    3993.000000
+mean       14.131264
+std        11.279015
+min         0.000000
+25%         8.937056
+50%        11.035134
+75%        14.533922
+max       100.000000
+Name: couvert_surface_dominant, dtype: float64
+pas potentiel
+count    27311.000000
+mean        21.150640
+std         22.436854
+min          0.000000
+25%          9.430824
+50%         12.157978
+75%         19.828328
+max        100.000000
+Name: couvert_surface_dominant, dtype: float64
+couvert_surface_dominant
+This is the second line.
+potentiel
+count    3993.000000
+mean       14.131264
+std        11.279015
+min         0.000000
+25%         8.937056
+50%        11.035134
+75%        14.533922
+max       100.000000
+Name: couvert_surface_dominant, dtype: float64
+pas potentiel
+count    27311.000000
+mean        21.150640
+std         22.436854
+min          0.000000
+25%          9.430824
+50%         12.157978
+75%         19.828328
+max        100.000000
+Name: couvert_surface_dominant, dtype: float64
+couvert_surface_dominant2
+This is the second line.
+potentiel
+count    3993.000000
+mean        9.018483
+std         2.921157
+min         0.000000
+25%         7.378065
+50%         8.631993
+75%        10.241717
+max        36.531764
+Name: couvert_surface_dominant2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         8.905324
+std          3.950415
+min          0.000000
+25%          7.215767
+50%          8.547297
+75%         10.210400
+max         49.541914
+Name: couvert_surface_dominant2, dtype: float64
+couvert_surface_dominant2
+This is the second line.
+potentiel
+count    3993.000000
+mean        9.018483
+std         2.921157
+min         0.000000
+25%         7.378065
+50%         8.631993
+75%        10.241717
+max        36.531764
+Name: couvert_surface_dominant2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         8.905324
+std          3.950415
+min          0.000000
+25%          7.215767
+50%          8.547297
+75%         10.210400
+max         49.541914
+Name: couvert_surface_dominant2, dtype: float64
+couvert_hydrique
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: couvert_hydrique, dtype: float64
+pas potentiel
+count    2.731100e+04
+mean     1.476475e+06
+std      1.393906e+06
+min      0.000000e+00
+25%      1.000000e+06
+50%      1.000000e+06
+75%      2.000000e+06
+max      1.700000e+07
+Name: couvert_hydrique, dtype: float64
+couvert_hydrique
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: couvert_hydrique, dtype: float64
+pas potentiel
+count    2.731100e+04
+mean     1.476475e+06
+std      1.393906e+06
+min      0.000000e+00
+25%      1.000000e+06
+50%      1.000000e+06
+75%      2.000000e+06
+max      1.700000e+07
+Name: couvert_hydrique, dtype: float64
+_num_age_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.536940
+std        17.130078
+min         0.000000
+25%         0.000000
+50%        17.000000
+75%        31.000000
+max       102.000000
+Name: _num_age_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        14.826553
+std         17.624744
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%         24.000000
+max        179.000000
+Name: _num_age_2_2, dtype: float64
+_num_age_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.536940
+std        17.130078
+min         0.000000
+25%         0.000000
+50%        17.000000
+75%        31.000000
+max       102.000000
+Name: _num_age_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        14.826553
+std         17.624744
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%         24.000000
+max        179.000000
+Name: _num_age_2_2, dtype: float64
+_num_age
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.536940
+std        17.130078
+min         0.000000
+25%         0.000000
+50%        17.000000
+75%        31.000000
+max       102.000000
+Name: _num_age, dtype: float64
+pas potentiel
+count    27311.000000
+mean        14.826553
+std         17.624744
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%         24.000000
+max        179.000000
+Name: _num_age, dtype: float64
+_num_age
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.536940
+std        17.130078
+min         0.000000
+25%         0.000000
+50%        17.000000
+75%        31.000000
+max       102.000000
+Name: _num_age, dtype: float64
+pas potentiel
+count    27311.000000
+mean        14.826553
+std         17.624744
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%         24.000000
+max        179.000000
+Name: _num_age, dtype: float64
+_num_groupe_essenece_2_2
+This is the second line.
+potentiel
+count     3993.000000
+mean     16458.371150
+std      14992.517942
+min          0.000000
+25%          0.000000
+50%       9189.000000
+75%      34589.000000
+max      65785.000000
+Name: _num_groupe_essenece_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean     12283.743620
+std      14731.603794
+min          0.000000
+25%          0.000000
+50%       3892.000000
+75%      32828.000000
+max      65924.000000
+Name: _num_groupe_essenece_2_2, dtype: float64
+_num_groupe_essenece_2_2
+This is the second line.
+potentiel
+count     3993.000000
+mean     16458.371150
+std      14992.517942
+min          0.000000
+25%          0.000000
+50%       9189.000000
+75%      34589.000000
+max      65785.000000
+Name: _num_groupe_essenece_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean     12283.743620
+std      14731.603794
+min          0.000000
+25%          0.000000
+50%       3892.000000
+75%      32828.000000
+max      65924.000000
+Name: _num_groupe_essenece_2_2, dtype: float64
+_num_groupe_essenece
+This is the second line.
+potentiel
+count     3993.000000
+mean     16458.371150
+std      14992.517942
+min          0.000000
+25%          0.000000
+50%       9189.000000
+75%      34589.000000
+max      65785.000000
+Name: _num_groupe_essenece, dtype: float64
+pas potentiel
+count    27311.000000
+mean     12283.743620
+std      14731.603794
+min          0.000000
+25%          0.000000
+50%       3892.000000
+75%      32828.000000
+max      65924.000000
+Name: _num_groupe_essenece, dtype: float64
+_num_groupe_essenece
+This is the second line.
+potentiel
+count     3993.000000
+mean     16458.371150
+std      14992.517942
+min          0.000000
+25%          0.000000
+50%       9189.000000
+75%      34589.000000
+max      65785.000000
+Name: _num_groupe_essenece, dtype: float64
+pas potentiel
+count    27311.000000
+mean     12283.743620
+std      14731.603794
+min          0.000000
+25%          0.000000
+50%       3892.000000
+75%      32828.000000
+max      65924.000000
+Name: _num_groupe_essenece, dtype: float64
+_num_densite_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.024793
+std         2.852176
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.996338
+std          3.010707
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite_2_2, dtype: float64
+_num_densite_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.024793
+std         2.852176
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.996338
+std          3.010707
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite_2_2, dtype: float64
+_num_densite
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.024793
+std         2.852176
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.996338
+std          3.010707
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite, dtype: float64
+_num_densite
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.024793
+std         2.852176
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.996338
+std          3.010707
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite, dtype: float64
+_num_drainage_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.463812
+std         7.089236
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        26.000000
+max        32.000000
+Name: _num_drainage_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        12.274102
+std          9.550437
+min          0.000000
+25%          0.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage_2_2, dtype: float64
+_num_drainage_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.463812
+std         7.089236
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        26.000000
+max        32.000000
+Name: _num_drainage_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        12.274102
+std          9.550437
+min          0.000000
+25%          0.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage_2_2, dtype: float64
+_num_drainage
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.463812
+std         7.089236
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        26.000000
+max        32.000000
+Name: _num_drainage, dtype: float64
+pas potentiel
+count    27311.000000
+mean        12.274102
+std          9.550437
+min          0.000000
+25%          0.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage, dtype: float64
+_num_drainage
+This is the second line.
+potentiel
+count    3993.000000
+mean       19.463812
+std         7.089236
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        26.000000
+max        32.000000
+Name: _num_drainage, dtype: float64
+pas potentiel
+count    27311.000000
+mean        12.274102
+std          9.550437
+min          0.000000
+25%          0.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage, dtype: float64
+_num_pente_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.282244
+std         1.419951
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         7.000000
+max        10.000000
+Name: _num_pente_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.870052
+std          2.762845
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente_2_2, dtype: float64
+_num_pente_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.282244
+std         1.419951
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         7.000000
+max        10.000000
+Name: _num_pente_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.870052
+std          2.762845
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente_2_2, dtype: float64
+_num_pente
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.282244
+std         1.419951
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         7.000000
+max        10.000000
+Name: _num_pente, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.870052
+std          2.762845
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente, dtype: float64
+_num_pente
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.282244
+std         1.419951
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         7.000000
+max        10.000000
+Name: _num_pente, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.870052
+std          2.762845
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente, dtype: float64
+_num_surface_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       91.968445
+std        91.342119
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       199.000000
+max       363.000000
+Name: _num_surface_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        54.302479
+std         82.483458
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%         74.000000
+max        365.000000
+Name: _num_surface_2_2, dtype: float64
+_num_surface_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       91.968445
+std        91.342119
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       199.000000
+max       363.000000
+Name: _num_surface_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        54.302479
+std         82.483458
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%         74.000000
+max        365.000000
+Name: _num_surface_2_2, dtype: float64
+_num_surface
+This is the second line.
+potentiel
+count    3993.000000
+mean       91.968445
+std        91.342119
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       199.000000
+max       363.000000
+Name: _num_surface, dtype: float64
+pas potentiel
+count    27311.000000
+mean        54.302479
+std         82.483458
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%         74.000000
+max        365.000000
+Name: _num_surface, dtype: float64
+_num_surface
+This is the second line.
+potentiel
+count    3993.000000
+mean       91.968445
+std        91.342119
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       199.000000
+max       363.000000
+Name: _num_surface, dtype: float64
+pas potentiel
+count    27311.000000
+mean        54.302479
+std         82.483458
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%         74.000000
+max        365.000000
+Name: _num_surface, dtype: float64
+_num_terrain_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.110694
+std        10.872244
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        39.000000
+Name: _num_terrain_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        10.667423
+std         15.168728
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%         31.000000
+max         95.000000
+Name: _num_terrain_2_2, dtype: float64
+_num_terrain_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.110694
+std        10.872244
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        39.000000
+Name: _num_terrain_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        10.667423
+std         15.168728
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%         31.000000
+max         95.000000
+Name: _num_terrain_2_2, dtype: float64
+_num_terrain
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.110694
+std        10.872244
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        39.000000
+Name: _num_terrain, dtype: float64
+pas potentiel
+count    27311.000000
+mean        10.667423
+std         15.168728
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%         31.000000
+max         95.000000
+Name: _num_terrain, dtype: float64
+_num_terrain
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.110694
+std        10.872244
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        39.000000
+Name: _num_terrain, dtype: float64
+pas potentiel
+count    27311.000000
+mean        10.667423
+std         15.168728
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%         31.000000
+max         95.000000
+Name: _num_terrain, dtype: float64
+_num_type_couvert_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.175056
+std         2.476879
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.074109
+std          2.736546
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert_2_2, dtype: float64
+_num_type_couvert_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.175056
+std         2.476879
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.074109
+std          2.736546
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert_2_2, dtype: float64
+_num_type_couvert
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.175056
+std         2.476879
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.074109
+std          2.736546
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert, dtype: float64
+_num_type_couvert
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.175056
+std         2.476879
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert, dtype: float64
+pas potentiel
+count    27311.000000
+mean         3.074109
+std          2.736546
+min          0.000000
+25%          0.000000
+50%          4.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert, dtype: float64
+_num_etage_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.842224
+std         2.587187
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         5.000000
+max         6.000000
+Name: _num_etage_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.166343
+std          2.572702
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          5.000000
+max          6.000000
+Name: _num_etage_2_2, dtype: float64
+_num_etage_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.842224
+std         2.587187
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         5.000000
+max         6.000000
+Name: _num_etage_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.166343
+std          2.572702
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          5.000000
+max          6.000000
+Name: _num_etage_2_2, dtype: float64
+_num_etage
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.842224
+std         2.587187
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         5.000000
+max         6.000000
+Name: _num_etage, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.166343
+std          2.572702
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          5.000000
+max          6.000000
+Name: _num_etage, dtype: float64
+_num_etage
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.842224
+std         2.587187
+min         0.000000
+25%         0.000000
+50%         5.000000
+75%         5.000000
+max         6.000000
+Name: _num_etage, dtype: float64
+pas potentiel
+count    27311.000000
+mean         2.166343
+std          2.572702
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          5.000000
+max          6.000000
+Name: _num_etage, dtype: float64
+_num_type_ecologie_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean      390.291761
+std       103.964682
+min         0.000000
+25%       304.000000
+50%       414.000000
+75%       472.000000
+max       563.000000
+Name: _num_type_ecologie_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean       265.407382
+std        191.397960
+min          0.000000
+25%          0.000000
+50%        304.000000
+75%        427.000000
+max        563.000000
+Name: _num_type_ecologie_2_2, dtype: float64
+_num_type_ecologie_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean      390.291761
+std       103.964682
+min         0.000000
+25%       304.000000
+50%       414.000000
+75%       472.000000
+max       563.000000
+Name: _num_type_ecologie_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean       265.407382
+std        191.397960
+min          0.000000
+25%          0.000000
+50%        304.000000
+75%        427.000000
+max        563.000000
+Name: _num_type_ecologie_2_2, dtype: float64
+_num_type_ecologie
+This is the second line.
+potentiel
+count    3993.000000
+mean      390.291761
+std       103.964682
+min         0.000000
+25%       304.000000
+50%       414.000000
+75%       472.000000
+max       563.000000
+Name: _num_type_ecologie, dtype: float64
+pas potentiel
+count    27311.000000
+mean       265.407382
+std        191.397960
+min          0.000000
+25%          0.000000
+50%        304.000000
+75%        427.000000
+max        563.000000
+Name: _num_type_ecologie, dtype: float64
+_num_type_ecologie
+This is the second line.
+potentiel
+count    3993.000000
+mean      390.291761
+std       103.964682
+min         0.000000
+25%       304.000000
+50%       414.000000
+75%       472.000000
+max       563.000000
+Name: _num_type_ecologie, dtype: float64
+pas potentiel
+count    27311.000000
+mean       265.407382
+std        191.397960
+min          0.000000
+25%          0.000000
+50%        304.000000
+75%        427.000000
+max        563.000000
+Name: _num_type_ecologie, dtype: float64
+_num_type_terrain_2_2
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain_2_2, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain_2_2, dtype: float64
+_num_type_terrain_2_2
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain_2_2, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain_2_2, dtype: float64
+_num_type_terrain
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain, dtype: float64
+_num_type_terrain
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain, dtype: float64
+_num_age_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       22.823441
+std        16.996511
+min         0.000000
+25%         4.000000
+50%        17.000000
+75%        38.000000
+max       151.000000
+Name: _num_age_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        21.657574
+std         18.302603
+min          0.000000
+25%          4.000000
+50%         17.000000
+75%         38.000000
+max        174.000000
+Name: _num_age_2_2_2, dtype: float64
+_num_age_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       22.823441
+std        16.996511
+min         0.000000
+25%         4.000000
+50%        17.000000
+75%        38.000000
+max       151.000000
+Name: _num_age_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        21.657574
+std         18.302603
+min          0.000000
+25%          4.000000
+50%         17.000000
+75%         38.000000
+max        174.000000
+Name: _num_age_2_2_2, dtype: float64
+_num_age_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       22.823441
+std        16.996511
+min         0.000000
+25%         4.000000
+50%        17.000000
+75%        38.000000
+max       151.000000
+Name: _num_age_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        21.657574
+std         18.302603
+min          0.000000
+25%          4.000000
+50%         17.000000
+75%         38.000000
+max        174.000000
+Name: _num_age_2, dtype: float64
+_num_age_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       22.823441
+std        16.996511
+min         0.000000
+25%         4.000000
+50%        17.000000
+75%        38.000000
+max       151.000000
+Name: _num_age_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        21.657574
+std         18.302603
+min          0.000000
+25%          4.000000
+50%         17.000000
+75%         38.000000
+max        174.000000
+Name: _num_age_2, dtype: float64
+_num_surface_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       86.026296
+std        89.762758
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       154.000000
+max       363.000000
+Name: _num_surface_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        66.661382
+std         86.358984
+min          0.000000
+25%          5.000000
+50%         28.000000
+75%        146.000000
+max        365.000000
+Name: _num_surface_2_2_2, dtype: float64
+_num_surface_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       86.026296
+std        89.762758
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       154.000000
+max       363.000000
+Name: _num_surface_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        66.661382
+std         86.358984
+min          0.000000
+25%          5.000000
+50%         28.000000
+75%        146.000000
+max        365.000000
+Name: _num_surface_2_2_2, dtype: float64
+_num_surface_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       86.026296
+std        89.762758
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       154.000000
+max       363.000000
+Name: _num_surface_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        66.661382
+std         86.358984
+min          0.000000
+25%          5.000000
+50%         28.000000
+75%        146.000000
+max        365.000000
+Name: _num_surface_2, dtype: float64
+_num_surface_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       86.026296
+std        89.762758
+min         0.000000
+25%         5.000000
+50%        28.000000
+75%       154.000000
+max       363.000000
+Name: _num_surface_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        66.661382
+std         86.358984
+min          0.000000
+25%          5.000000
+50%         28.000000
+75%        146.000000
+max        365.000000
+Name: _num_surface_2, dtype: float64
+_num_densite_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689457
+std         2.589526
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.198638
+std          2.785466
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite_2_2_2, dtype: float64
+_num_densite_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689457
+std         2.589526
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.198638
+std          2.785466
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite_2_2_2, dtype: float64
+_num_densite_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689457
+std         2.589526
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.198638
+std          2.785466
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite_2, dtype: float64
+_num_densite_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689457
+std         2.589526
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         8.000000
+Name: _num_densite_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.198638
+std          2.785466
+min          0.000000
+25%          0.000000
+50%          5.000000
+75%          6.000000
+max          8.000000
+Name: _num_densite_2, dtype: float64
+_num_drainage_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       18.597045
+std         6.530003
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        21.000000
+max        34.000000
+Name: _num_drainage_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        15.152063
+std          7.497622
+min          0.000000
+25%         11.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage_2_2_2, dtype: float64
+_num_drainage_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       18.597045
+std         6.530003
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        21.000000
+max        34.000000
+Name: _num_drainage_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        15.152063
+std          7.497622
+min          0.000000
+25%         11.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage_2_2_2, dtype: float64
+_num_drainage_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       18.597045
+std         6.530003
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        21.000000
+max        34.000000
+Name: _num_drainage_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        15.152063
+std          7.497622
+min          0.000000
+25%         11.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage_2, dtype: float64
+_num_drainage_2
+This is the second line.
+potentiel
+count    3993.000000
+mean       18.597045
+std         6.530003
+min         0.000000
+25%        16.000000
+50%        16.000000
+75%        21.000000
+max        34.000000
+Name: _num_drainage_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean        15.152063
+std          7.497622
+min          0.000000
+25%         11.000000
+50%         16.000000
+75%         16.000000
+max         34.000000
+Name: _num_drainage_2, dtype: float64
+_num_pente_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.312297
+std         1.457958
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         6.000000
+max        10.000000
+Name: _num_pente_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.948409
+std          2.131371
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente_2_2_2, dtype: float64
+_num_pente_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.312297
+std         1.457958
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         6.000000
+max        10.000000
+Name: _num_pente_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.948409
+std          2.131371
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente_2_2_2, dtype: float64
+_num_pente_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.312297
+std         1.457958
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         6.000000
+max        10.000000
+Name: _num_pente_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.948409
+std          2.131371
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente_2, dtype: float64
+_num_pente_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        5.312297
+std         1.457958
+min         0.000000
+25%         4.000000
+50%         5.000000
+75%         6.000000
+max        10.000000
+Name: _num_pente_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.948409
+std          2.131371
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max         10.000000
+Name: _num_pente_2, dtype: float64
+_num_terrain_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.608064
+std         8.354310
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        61.000000
+Name: _num_terrain_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.065871
+std         11.435308
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max         95.000000
+Name: _num_terrain_2_2_2, dtype: float64
+_num_terrain_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.608064
+std         8.354310
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        61.000000
+Name: _num_terrain_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.065871
+std         11.435308
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max         95.000000
+Name: _num_terrain_2_2_2, dtype: float64
+_num_terrain_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.608064
+std         8.354310
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        61.000000
+Name: _num_terrain_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.065871
+std         11.435308
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max         95.000000
+Name: _num_terrain_2, dtype: float64
+_num_terrain_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        2.608064
+std         8.354310
+min         0.000000
+25%         0.000000
+50%         0.000000
+75%         0.000000
+max        61.000000
+Name: _num_terrain_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.065871
+std         11.435308
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max         95.000000
+Name: _num_terrain_2, dtype: float64
+_num_type_couvert_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689206
+std         2.138099
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.149427
+std          2.354497
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert_2_2_2, dtype: float64
+_num_type_couvert_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689206
+std         2.138099
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.149427
+std          2.354497
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert_2_2_2, dtype: float64
+_num_type_couvert_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689206
+std         2.138099
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.149427
+std          2.354497
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert_2, dtype: float64
+_num_type_couvert_2
+This is the second line.
+potentiel
+count    3993.000000
+mean        4.689206
+std         2.138099
+min         0.000000
+25%         5.000000
+50%         6.000000
+75%         6.000000
+max         6.000000
+Name: _num_type_couvert_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean         4.149427
+std          2.354497
+min          0.000000
+25%          4.000000
+50%          5.000000
+75%          6.000000
+max          6.000000
+Name: _num_type_couvert_2, dtype: float64
+_num_type_ecologie_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean      379.545204
+std        97.171439
+min         0.000000
+25%       304.000000
+50%       407.000000
+75%       470.000000
+max       563.000000
+Name: _num_type_ecologie_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean       332.766687
+std        145.939849
+min          0.000000
+25%        286.000000
+50%        313.000000
+75%        467.000000
+max        563.000000
+Name: _num_type_ecologie_2_2_2, dtype: float64
+_num_type_ecologie_2_2_2
+This is the second line.
+potentiel
+count    3993.000000
+mean      379.545204
+std        97.171439
+min         0.000000
+25%       304.000000
+50%       407.000000
+75%       470.000000
+max       563.000000
+Name: _num_type_ecologie_2_2_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean       332.766687
+std        145.939849
+min          0.000000
+25%        286.000000
+50%        313.000000
+75%        467.000000
+max        563.000000
+Name: _num_type_ecologie_2_2_2, dtype: float64
+_num_type_ecologie_2
+This is the second line.
+potentiel
+count    3993.000000
+mean      379.545204
+std        97.171439
+min         0.000000
+25%       304.000000
+50%       407.000000
+75%       470.000000
+max       563.000000
+Name: _num_type_ecologie_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean       332.766687
+std        145.939849
+min          0.000000
+25%        286.000000
+50%        313.000000
+75%        467.000000
+max        563.000000
+Name: _num_type_ecologie_2, dtype: float64
+_num_type_ecologie_2
+This is the second line.
+potentiel
+count    3993.000000
+mean      379.545204
+std        97.171439
+min         0.000000
+25%       304.000000
+50%       407.000000
+75%       470.000000
+max       563.000000
+Name: _num_type_ecologie_2, dtype: float64
+pas potentiel
+count    27311.000000
+mean       332.766687
+std        145.939849
+min          0.000000
+25%        286.000000
+50%        313.000000
+75%        467.000000
+max        563.000000
+Name: _num_type_ecologie_2, dtype: float64
+_num_type_terrain_2_2_2
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain_2_2_2, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain_2_2_2, dtype: float64
+_num_type_terrain_2_2_2
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain_2_2_2, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain_2_2_2, dtype: float64
+_num_type_terrain_2
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain_2, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain_2, dtype: float64
+_num_type_terrain_2
+This is the second line.
+potentiel
+count    3993.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: _num_type_terrain_2, dtype: float64
+pas potentiel
+count    27311.0
+mean         0.0
+std          0.0
+min          0.0
+25%          0.0
+50%          0.0
+75%          0.0
+max          0.0
+Name: _num_type_terrain_2, dtype: float64
+sup_feu
+This is the second line.
+potentiel
+count     3993.000000
+mean       575.097718
+std       5308.079525
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max      95431.396650
+Name: sup_feu, dtype: float64
+pas potentiel
+count    2.731100e+04
+mean     2.144882e+07
+std      1.907783e+08
+min      0.000000e+00
+25%      0.000000e+00
+50%      0.000000e+00
+75%      0.000000e+00
+max      2.244565e+09
+Name: sup_feu, dtype: float64
+sup_feu
+This is the second line.
+potentiel
+count     3993.000000
+mean       575.097718
+std       5308.079525
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          0.000000
+max      95431.396650
+Name: sup_feu, dtype: float64
+pas potentiel
+count    2.731100e+04
+mean     2.144882e+07
+std      1.907783e+08
+min      0.000000e+00
+25%      0.000000e+00
+50%      0.000000e+00
+75%      0.000000e+00
+max      2.244565e+09
+Name: sup_feu, dtype: float64

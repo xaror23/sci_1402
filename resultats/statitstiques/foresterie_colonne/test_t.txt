@@ -1,0 +1,5008 @@
+#####in_caribou_zone#####
+16.39409947090504
+1.1275306549746839e-53
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####diff_altitue#####
+-10.607589166074542
+5.529867963823028e-25
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####pts_plus_eleve#####
+-10.607589166074542
+5.529867963823028e-25
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####agricole#####
+-6.617967571754437
+5.930721993531497e-11
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####longueur_route#####
+-12.366302980154474
+8.693974602247308e-33
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####couvert_surface_dominant#####
+-11.284122674123699
+7.043168280803635e-28
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####couvert_hydrique#####
+-33.69273820841566
+7.391087068511275e-167
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####sup_feu#####
+-9.978026570878521
+2.0438481408003142e-22
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####couvert_surface_dominant2#####
+1.9269049460297067
+0.05427484127198235
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####+#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####0#####
+-14.949159360973812
+9.44718287604071e-46
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####1#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1A#####
+4.571414159791708
+5.450956750292657e-06
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####1AA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AAM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AAR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AAY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ABM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ABR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ABY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ACM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ACR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ACY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ADM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ADR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ADY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AM#####
+-0.17458206083764047
+0.8614434190718683
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ASM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ASR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1ASY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1AY#####
+-0.03753703219028032
+0.9700643129079507
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BCM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BCR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BCY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BD#####
+2.0334387163501564
+0.04227211993962496
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####1BDM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BDR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BDY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BFM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BFR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BFY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BGM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BGR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BGY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BIM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BIR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BIY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BNM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BNR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BNY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BP#####
+0.6544665198548938
+0.5129619305728714
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BPM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BPR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BPY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BTM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BTR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BTY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1BY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1PM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1PR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1PY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2A#####
+-2.2041274573745775
+0.02774280798115664
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####2AE#####
+-0.8163603960246144
+0.4144886563905257
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AEM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AEY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AK#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AKM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AKR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AKY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2ATM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2ATR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2ATY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2AY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BD#####
+-1.1340556007375904
+0.2570432803782913
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BDM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BDR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BDY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BE#####
+-4.723308913919524
+2.6520197055054457e-06
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####2BEM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BEY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BP#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BPM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BPR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BPY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2BY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####2Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3ACM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3ACR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3ACY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3AE#####
+1.5285456227020477
+0.12669367662257378
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3AEM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3AER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3AEY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3AN#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3ANM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3ANR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3ANY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3D#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DAM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DAR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DAY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DDM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DDR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DDY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DEM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DEY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3DY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4AM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4AY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GA#####
+3.9618508238443977
+7.965571274961952e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####4GAM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GAR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GAY#####
+-1.6681516133175447
+0.0955990068480956
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GDM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GDR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GDY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GS#####
+5.488415031437827
+5.141543338297968e-08
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####4GSM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GSR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4GSY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4PM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4PR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4PY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####4Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5A#####
+-0.4930102661093926
+0.6221136802448455
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5AM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5AY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5GM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5GR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5GY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5L#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5LM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5LY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5S#####
+0.16431898779341567
+0.8695132742613583
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5SM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5SR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5SY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6AM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6AY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6GM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6GR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6GY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6S#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6SM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6SR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6SY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####6Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7E#####
+9.818192347566056
+8.75810878975456e-22
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####7L#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7T#####
+5.7471959083327
+1.2044131295408182e-08
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####7TM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7TY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8A#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8A9M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AAM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AAY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ACM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ACY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ALM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ALY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AM#####
+0.27722205096908026
+0.7816669612186917
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8APM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8APY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ASM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ASY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8AY#####
+-2.658384334625753
+0.007977106900571901
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####8AYP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8C#####
+-1.4149219088048755
+0.15740301409856122
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8CM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8CR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8CY#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8E#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8EM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8ER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8EY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8FM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8FR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8FY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8GM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8GR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8GY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8PM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8PR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8PY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####8Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9AM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9AR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9AY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9S#####
+1.5009393200244268
+0.13368723569771607
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9SM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9SR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9SY#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9Y#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####10#####
+-3.09245023289431
+0.0020402065708082016
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####10.0#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####10JIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####10VIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12JIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12VIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####16#####
+1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####20#####
+-7.1870396954445885
+1.2945980109772752e-12
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####21#####
+1.3421783028621843
+0.17984313165457533
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####30#####
+-2.8388094377870825
+0.004619989972536844
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####30.0#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####30JIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####30VIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####31#####
+-0.22350055396996502
+0.8231916460456816
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####32#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####34#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####40#####
+1.4880359474868259
+0.13705698692946458
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####41#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####42#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####43#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####44#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####50#####
+6.078367703153504
+1.7252653345066935e-09
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####50JIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####50VIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####51#####
+1.2539250152668067
+0.21016260049186491
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####52#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####53#####
+-1.22505147919997
+0.22084458600071152
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####54#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####60#####
+6.877898779031315
+1.0696372101305716e-11
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####61#####
+0.27722205096908037
+0.7816669612186917
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####62#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####63#####
+-1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####64#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####70#####
+-0.2102510304811823
+0.8335146259430397
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####70.0#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####70JIN#####
+1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####70VIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####90#####
+2.349805518030837
+0.018977054122790365
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####90JIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####90VIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####110#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####120#####
+3.5112073333697853
+0.0004660069770911877
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####120JI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####120VI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####130#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1010#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1030#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1050#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1070#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####1090#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3010#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3030#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3050#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3070#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####3090#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5010#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5030#####
+1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5050#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5070#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####5090#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7010#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7030#####
+1.0000000000000002
+0.31755266017641265
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7050#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7070#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####7090#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9010#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9030#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9050#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9050.0#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9070#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####9090#####
+1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####10120#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12010#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12012#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12030#####
+2.240558078361853
+0.02527384305713273
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####12050#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12070#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####12090#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####30120#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####50120#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####70120#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####90120#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####A#####
+12.278966252242157
+2.2262622221931635e-32
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####ABS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ACIPF2021#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ACIPF2023#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ACIPF2024#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ACIPF_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AEP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AF#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2012#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2015#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2016#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2017#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2018#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2019#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2020#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2021#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2022#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2023#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF2024#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AIPF_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AL#####
+1.2063198475752779
+0.2279797849397135
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####AN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ANT#####
+-6.511171619922967
+1.178868024154411e-10
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####AUT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####B#####
+3.8620630009880936
+0.00011966997359160402
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####BAS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####BAT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####BG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####BHE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####BI#####
+2.003009783493601
+0.04544602257627132
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####BJ#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####BLE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####BP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####C#####
+-0.2531170417827284
+0.8002298459738504
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CAM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CAR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CEX#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CFO#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CH#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CHE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CIM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CNE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CU#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####CV#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####D#####
+-2.76963630612721
+0.005715875257967922
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####DEF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####DEM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####DEP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####DH#####
+9.939279738615582
+2.9133924749225866e-22
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####DS#####
+-0.7274355626397085
+0.4671296157944841
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####DSC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####E#####
+0.34284579679678356
+0.7317865971178035
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EAU#####
+-18.632069812180376
+9.890695945234589e-67
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####EB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EO#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EQU#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ER#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ES#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EU#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####EV#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####F#####
+1.7876466558954427
+0.07413607122573629
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####F1#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####F2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FC10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FC11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FC12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE3H#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE20#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE21#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE25#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE26#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE30#####
+-0.5771577228213597
+0.563962951224593
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE31#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE32#####
+-1.461422690416478
+0.1442139367743691
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE32H#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE33#####
+-2.0681220496636774
+0.038885470895320344
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####FE34#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE35#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE36#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE41#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE42#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE43#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE50#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE51#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE52#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE55#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE60#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE61#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FE62#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FH#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FO#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FO13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FO14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FO15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FO16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FO18#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FX#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####FZ#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####GOL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####GR#####
+1.7337871997919718
+0.08326436201961557
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####H#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####HAB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####HG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####I#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####IL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ILE#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####IMP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####INC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####INF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####INITIALE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####INI_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####INO#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN#####
+1.1657522183478055
+0.2439928874458193
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN30#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN50#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN70#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIN90#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JINJI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JINVI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####JIR#####
+0.5928071184278922
+0.5534444069086137
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA3A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA3B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA3C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA3D#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA10C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA10K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA10P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA11C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA11K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA12C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA12K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA13C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA13K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA14C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA14K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA15C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA15K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA16C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA16K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA20#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA20C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA20K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA20Q#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA21#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA21C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA21K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA22C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA22K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA23C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA23K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA24C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA24K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA25#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA25C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA25K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA26#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA26C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA26K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA26P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA30#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA30C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA30K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA30P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA31#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA31C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA31K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA32#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA32C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA32K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA33C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA33K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA34#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA34C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA34K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA35#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA35C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA35K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA36#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA36C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA36K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA40C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA40K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LA40P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LI10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LI10P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LI11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LI12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LI14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LI15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL10K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL10P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL11K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL12K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL13K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL14K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL15K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL16K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL20#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL20C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL20K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL21#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL21K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL22K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL23K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL24K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL25#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL25K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL26#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL26K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL30#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL30K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL30P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL31#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL31K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL32#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL32K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL33K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL34#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL34K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL35#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL35K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL36#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL36K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL40C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL40K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LL40P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM10C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM10K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM10P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM11C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM11K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM12C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM12K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM13C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM13K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM14C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM14K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM15C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM15K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM16C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM16K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM20#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM20C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM20K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM21#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM21C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM21K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM22C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM22K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM23C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM23K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM24C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM24K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM25#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM25C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM25K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM26#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM26C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM26K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM30#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM30C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM30K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM30P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM31#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM31C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM31K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM32#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM32C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM32K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM33C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM33K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM34#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM34C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM34K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM35#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM35C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM35K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM36#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM36C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM36K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM40C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM40K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LM40P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####LTE#####
+-0.37780243035525896
+0.7056576226158222
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1AA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1AB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1AD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1AS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1BT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M1P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2AE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2AK#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2AT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2BD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2BE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M2BP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3AE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3AN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3D#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3DA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3DD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M3DE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M4#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M4A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M4GA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M4GD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M4GS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M4P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M5#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M5A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M5G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M5S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M6#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M6A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M6G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M6S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M7T#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8AA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8AL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8AP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8AS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8E#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M8P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M9#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M9A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####M9S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA14R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA15R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA16R#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA18#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA18R#####
+0.1795183723948365
+0.8575670962255036
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA28#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MA38#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MC12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ME#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ME13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ME16#####
+1.634357058494993
+0.10249895567526014
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MF14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MF15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MF16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MF18#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MH#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MIXTE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MIXTE_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ18#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ20#####
+-0.5771577228213597
+0.563962951224593
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ21#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ21P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ22#####
+-3.137361329057288
+0.0017546689599917242
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####MJ22P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ23#####
+-2.5366873297069255
+0.011341939031080163
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####MJ24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ25#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MJ26#####
+-2.9966960342398865
+0.002796663383680007
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####MJ28#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ML#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MM#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MO#####
+3.733671410904739
+0.00019936964899429488
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####MR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2D#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2E#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2I#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS2S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS10#####
+-0.9284126005496487
+0.35341784411419896
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS10-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS11#####
+-1.8094461523448466
+0.07068218049579078
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS11-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS11P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS12#####
+-0.7267289408048412
+0.467562268403107
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS12-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS12P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS13#####
+-0.6961311609584337
+0.4865086144945465
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS13-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS14#####
+-1.7337871997919716
+0.0832643620196156
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS14-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS15#####
+0.5771577228213598
+0.563962951224593
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS15-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS16#####
+-1.7337871997919718
+0.08326436201961557
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS16-#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS18#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS18P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS20#####
+-0.4262269283320236
+0.6700343177190089
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS20E#####
+1.7337871997919718
+0.08326436201961557
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS21#####
+0.2772220509690803
+0.7816669612186917
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS21P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS22#####
+0.7966735160858107
+0.42582995467834095
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS22E#####
+3.6692794742072015
+0.0002560893987534885
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####MS22F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS22P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS23#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS23E#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS23F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS23P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS24#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS25#####
+2.1206494080766602
+0.03419719752926815
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####MS25E#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS25F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS25P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS26#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS26E#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS26F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS27#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS28#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS29#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS31#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS32#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS40P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS42#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS43#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS45#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS46#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS60#####
+1.26529108843046
+0.2060620384371304
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS61#####
+0.5771577228213598
+0.563962951224593
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS62#####
+0.32914593814238513
+0.7421143739937488
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS62P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS63#####
+1.0691214126401525
+0.28527322061639415
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS64#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS65#####
+-1.0000000000000002
+0.31755266017641265
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS66#####
+1.3421783028621843
+0.17984313165457533
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS68#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS70#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS70G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS70K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS71#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS71G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS71K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS72#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS72G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS73#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS73G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS73K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS74#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS74G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS74K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS75#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MS76#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####MU#####
+0.7108923143748906
+0.4773169041540495
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF5P12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF5P13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF5P14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF2010#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF2011#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF2012#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF2013#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF2014#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NAIPF_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NDISP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NORD_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####NX#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####O#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####OA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####OBS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####OO#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####OR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####OT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####OV#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PAI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PH#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PIC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PIEN_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PIN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PO#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PPN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PR#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####PU#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####QUA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R#####
+-0.5220429786046471
+0.601756135326649
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1A#####
+-2.6072602210552707
+0.009263045395798683
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####R1AA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1AB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1AD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1AS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1BC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1BD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1BF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1BG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1BI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1BN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R1P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2AE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2AK#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2AT#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2BD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2BE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R2BP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3AE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3AN#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3D#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3DA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3DD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R3DE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R4#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R4A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R4GA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R4GD#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R4GS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R4P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R5#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R5A#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R5G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R5L#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R5S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R6#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R6A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R6G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R6S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R7#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R7T#####
+1.4149219088048752
+0.15740301409856125
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8A#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8AA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8AC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8AL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8AP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8AS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8E#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8F#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R8P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R9#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R9A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####R9S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB11#####
+-1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB12#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB13#####
+-2.3385410919225285
+0.01955564694383949
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RB14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB16#####
+-1.7337871997919718
+0.08326436201961557
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB22G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB23G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB25#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB25G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB26#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB26G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB30#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB30P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB50#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB52#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB53#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB55#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RB56#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RC22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RC38#####
+3.4833322033458702
+0.0005166806029132657
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE2A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE2C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE2M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE2S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE10P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE11#####
+-0.33318513577867787
+0.7390644499853419
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE11P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE12#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE12P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE20#####
+-2.2199945185388206
+0.02664296578059854
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE20Q#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE21#####
+-1.8946481899067507
+0.05842759081781585
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE21P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE22#####
+3.170622334567399
+0.0015674424514897734
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE22M#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE22P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE23M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE24#####
+1.8538949823289848
+0.0640487905815919
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE24P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE25#####
+0.9427566152444586
+0.346033334244477
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE25P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE25S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE26#####
+4.279206580816525
+2.0559598825927105e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE26S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE32#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE37#####
+4.961173830190667
+8.231996484875746e-07
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE38#####
+3.4979930040209877
+0.0004894206294525485
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE39#####
+7.511269563321501
+1.2967697242052557e-13
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RE40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE42#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE45#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE51#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE52#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE70#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE71#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE71G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE71K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE72#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE73#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE74#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE74G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE74K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE75#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RE76#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RI10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RI10P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RI11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RI14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RO#####
+-1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP11#####
+1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP12P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP15P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RP16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS2A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS2C#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS2H#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS2M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS2S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS5S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS10#####
+0.5771577228213597
+0.563962951224593
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS12#####
+1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS13#####
+-0.8163603960246141
+0.41448865639052557
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS15#####
+1.291425426697648
+0.19685491920738835
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS15P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS16#####
+-0.33318513577867787
+0.7390644499853419
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS18#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS18P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS20#####
+-2.0662116951635836
+0.03906580945783211
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RS20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS20S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS21#####
+-1.1795545292750291
+0.23845825885093702
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS21P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS22#####
+0.33973706907562895
+0.7341259556726042
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS22M#####
+0.8943376721896029
+0.37135665999572487
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS22P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS23#####
+-0.3013742503386124
+0.7631918457867513
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS23M#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS24#####
+0.8319221880562011
+0.4056516781770124
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS25#####
+3.9982533651658376
+6.851044739089678e-05
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RS25P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS25S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS26#####
+1.634357058494993
+0.10249895567526014
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS26S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS33#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS34#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS35#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS37#####
+2.8974053881349215
+0.0038447905633087758
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RS37P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS38#####
+3.419822680458067
+0.000651956505400627
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####RS38P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS39#####
+0.0
+1.0
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS40#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS40P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS41#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS42#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS43#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS44#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS45#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS50#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS51#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS52#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS52P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS53#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS54#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS55#####
+-0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS55P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS55S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS56#####
+-1.0
+0.31755266017641276
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS56S#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS70#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS70G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS70K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS71#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS71G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS71K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS72#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS72G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS73#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS73G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS73K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS74#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS74G#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS74K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS75#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RS76#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT13#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT14#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT15#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RT16#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RX#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####RZ#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####Retour à la fiche descriptive#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####S#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SAIPF2021#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SAIPF2022#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SAIPF_MAJF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SM11#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SM21#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####SUP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA2A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA2B#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA20#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA20K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA20P#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA22#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA22K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA23#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TA23K#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TNP#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TO#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TO18#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TO19#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOB9D#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOB9L#####
+1.0000000000000002
+0.31755266017641265
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOB9N#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOB9U#####
+9.001206731556257
+1.1033216173281595e-18
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####TOBA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOBB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOE#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOF8A#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOF8L#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOF8N#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOF8U#####
+0.9999999999999998
+0.3175526601764128
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOFA#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOFB#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TOFC#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####TRF#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####US#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIL#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIN#####
+2.293177609192589
+0.022044769682590407
+Reject the null hypothesis: There is a statistically significant difference between the paired samples.
+#####VIN10#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIN12#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIN30#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIN50#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIN70#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIN90#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VINJI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VINVI#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VIR#####
+0.4663868976907448
+0.6410402687030887
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####VRG#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.
+#####ZHQ#####
+nan
+nan
+Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples.

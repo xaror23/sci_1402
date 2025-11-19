@@ -5,6 +5,7 @@ from skimage.io import imread
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import svm
+from sklearn.svm import LinearSVC
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
@@ -109,21 +110,31 @@ df = pd.read_csv('Data_Sat_Caribou_v16.csv')
 df = df.fillna(0)
 df = df.fillna(0)
 df_potentielle = df.query("classement == 'potentiel'")
-df_potentielle = df_potentielle.iloc[:1000]
+df_potentielle = df_potentielle.iloc[:2000]
 
 #df_potentielle = df_potentielle.drop('classement',axis=1)
 
 df_pas_potentielle = df.query("classement == 'pas potentiel'")
-df_pas_potentielle = df_pas_potentielle.iloc[:1000]
+df_pas_potentielle = df_pas_potentielle.iloc[:2000]
 
 newdf = pd.concat([df_potentielle,df_pas_potentielle])
 
 df_pictures = getImagesData(newdf)
 newdf = newdf.merge(df_pictures, left_on='fichiers', right_on='fichiers')
 newdf = newdf.drop("fichiers", axis=1)
-#f_t_r = ['diff_altitue', 'pts_plus_eleve', 'couvert_surface_dominant', '_num_groupe_essenece_2_2', '_num_groupe_essenece', '_num_surface_2_2', '_num_surface', '_num_type_terrain_2_2', '_num_type_terrain', '_num_surface_2_2_2', '_num_surface_2', '_num_drainage_2_2_2', '_num_drainage_2', '_num_type_ecologie_2_2_2', '_num_type_ecologie_2', '_num_type_terrain_2_2_2', '_num_type_terrain_2']
-#for f in f_t_r:
-#    newdf = newdf.drop(f, axis=1)
+
+zero_max_column = []
+
+for c in df.columns:
+
+    if c != "classement" and  c != "fichiers":
+        if newdf[c].max() == 0:
+            zero_max_column.append(c)
+print(zero_max_column)
+for c in zero_max_column:
+    newdf.drop(c, axis=1)
+
+
 
 maps_classment = {"pas potentiel":0,"potentiel":1}
 newdf['classement'] = newdf['classement'].map(maps_classment)
@@ -143,31 +154,32 @@ param_grid={'C':[0.1,1,10,100],
             'kernel':['rbf','poly']}
 
 # Creating a support vector classifier
-svc=svm.SVC(probability=True)
+#svc=svm.SVC(probability=True)
 
-svm_linear = svm.SVC(kernel='linear')
-svm_rbf = svm.SVC(kernel='rbf')
+#svm_linear = svm.SVC(kernel='linear')
+svm_linear = LinearSVC()
+#svm_rbf = svm.SVC(kernel='rbf')
 
-score_linear = cross_val_score(svm_linear, x_train,y_train, cv=5).mean()
-score_rbf = cross_val_score(svm_rbf, x_train,y_train, cv=5).mean()
+#score_linear = cross_val_score(svm_linear, x_train,y_train, cv=5).mean()
+#score_rbf = cross_val_score(svm_rbf, x_train,y_train, cv=5).mean()
 
-print("Score linéaire :", score_linear)
-print("Score RBF :", score_rbf)
+#print("Score linéaire :", score_linear)
+#print("Score RBF :", score_rbf)
 
 # Creating a model using GridSearchCV with the parameters grid
-if score_rbf > score_linear:
+#if score_rbf > score_linear:
 
-    model=GridSearchCV(svc,param_grid)
+#    model=GridSearchCV(svc,param_grid)
 
     # Training the model using the training data
-    model.fit(x_train,y_train)
+#    model.fit(x_train,y_train)
 
     # Testing the model using the testing data
-    y_pred = model.predict(x_test)
+#    y_pred = model.predict(x_test)
 
-else:
-    svm_linear.fit(x_train,y_train)
-    y_pred = svm_linear.predict(x_test)
+#else:
+svm_linear.fit(x_train,y_train)
+y_pred = svm_linear.predict(x_test)
 
 # Calculating the accuracy of the model
 accuracy = accuracy_score(y_pred, y_test)
@@ -185,10 +197,8 @@ disp = ConfusionMatrixDisplay(confusion_matrix=cm)
 disp.plot(cmap=plt.cm.Blues)
 plt.show()
 
-# Create a SHAP explainer for the trained model
 explainer = shap.Explainer(svm_linear)
 
-# Calculate SHAP values for a specific instance
 shap_values = explainer(x_test)
 
 shap.summary_plot(shap_values, x_test, plot_type="bar")

@@ -92,8 +92,6 @@ groups = df.groupby("classement").groups
 potentiel = groups["potentiel"]
 non_potentiel = groups["pas potentiel"]
 
-#print(stats.f_oneway(potentiel, non_potentiel))
-
 import statsmodels.api as sm
 from statsmodels.formula.api import ols
 
@@ -144,23 +142,19 @@ for c in df.columns:
                     f.write(str(df_pas_potentielle[c].describe()) + '\n')
 
 
-        # Perform the paired samples t-test
 
         data_group1 = df_potentielle[c][:1000]
         data_group2 = df_pas_potentielle[c][:1000]
         t_statistic, p_value = stats.ttest_rel(data_group1, data_group2)
 
-        #print(f"T-statistic: {t_statistic}")
-        #print(f"P-value: {p_value}")
 
-        # Interpret the result
         alpha = 0.05
         if p_value < alpha:
-            analystet = "Reject the null hypothesis: There is a statistically significant difference between the paired samples."
+            analystet = "Rejeter l'hypothèse nulle : il existe une différence statistiquement significative entre les échantillons appariés."
 
         else :
             fields_reject.append(c)
-            analystet ="Fail to reject the null hypothesis: There is no statistically significant difference between the paired samples."
+            analystet ="Ne pas rejeter l'hypothèse nulle : il n'existe aucune différence statistiquement significative entre les échantillons appariés."
 
         with open('test_t.txt', 'a') as f:
             f.write("#####" + c + '#####\n')

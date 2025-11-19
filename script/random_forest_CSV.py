@@ -46,7 +46,7 @@ def getImageReset(image_path):
     return hog_features
 
 #Lecture du fichir CSV
-df = pd.read_csv('Data_Sat_Caribou_v18.csv')
+df = pd.read_csv('Data_Sat_Caribou_v16.csv')
 df = df.fillna(0)
 print(df.columns)
 df_potentielle = df.query("classement == 'potentiel'")
@@ -67,7 +67,16 @@ for i in range(0, 150):
     zero_matrix = np.zeros((rows, cols))
     theMatrix.append(zero_matrix)
 
+zero_max_column = []
 
+for c in df.columns:
+
+    if c != "classement" and  c != "fichiers":
+        if newdf[c].max() == 0:
+            zero_max_column.append(c)
+
+for c in zero_max_column:
+    newdf.drop(c, axis=1)
 
 flat_data_arr = []
 images = []
@@ -114,10 +123,6 @@ df_pictures["fichiers"] = images
 newdf = newdf.merge(df_pictures, left_on='fichiers', right_on='fichiers')
 newdf = newdf.drop("fichiers", axis=1)
 
-#f_t_r = ['diff_altitue', 'pts_plus_eleve', 'couvert_surface_dominant', '_num_groupe_essenece_2_2', '_num_groupe_essenece', '_num_surface_2_2', '_num_surface', '_num_type_terrain_2_2', '_num_type_terrain', '_num_surface_2_2_2', '_num_surface_2', '_num_drainage_2_2_2', '_num_drainage_2', '_num_type_ecologie_2_2_2', '_num_type_ecologie_2', '_num_type_terrain_2_2_2', '_num_type_terrain_2']
-#for f in f_t_r:
-#    newdf = newdf.drop(f, axis=1)
-
 
 maps_classment = {"pas potentiel":0,"potentiel":1}
 newdf['classement'] = newdf['classement'].map(maps_classment)
@@ -127,12 +132,6 @@ x,y = newdf.iloc[:,1:].values, newdf.iloc[:,0].values
 
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size = 0.33, random_state = 42)
 
-# import Random Forest classifier
-
-
-
-
-#Création du modèle
 
 rfc = RandomForestClassifier(n_estimators=100,random_state=0)
 
@@ -190,17 +189,11 @@ colums = colums[1:]
 feature_importance_df = pd.DataFrame({'feature': colums, 'importance': importances})
 feature_importance_df = feature_importance_df.sort_values(by='importance', ascending=False)
 
-print("Feature Importances:")
-print(feature_importance_df)
 
 # Access the individual trees
 individual_trees = rfc.estimators_
 
-# You can then work with each individual tree, for example:
-print(f"Number of trees in the forest: {len(individual_trees)}")
-print(f"Type of the first tree: {type(individual_trees[0])}")
 
-# You can also inspect properties of a single tree, like its depth
 from sklearn.tree import plot_tree
 import matplotlib.pyplot as plt
 
@@ -222,6 +215,3 @@ shap_values = explainer(X_test)
 shap.summary_plot(shap_values, X_test, plot_type="bar")
 #
 print(shap_values)
-#shap.summary_plot(shap_values[0], X_test)
-
-#shap.dependence_plot("Subscription Length", shap_values[0], X_test,interaction_index="Age")
